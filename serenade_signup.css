@@ -1,0 +1,16 @@
+body{
+	background-image: url("seat.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: Lato;
+	color: black;
+}
+html{
+	height: 100%;
+}
+hr{
+	margin-left:20px;
+	border-top: 1px solid white;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+	width:345px;
+}

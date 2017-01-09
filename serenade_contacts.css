@@ -1,0 +1,32 @@
+body{
+	background-image: url("maple.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: Lato;
+	color: black;
+}
+html{
+	height:100%;
+}
+h1{
+	font-weight: 500;
+	font-size: 3.7em;
+	margin-left: 700px;
+	margin-top: 120px;
+	color:#000000;
+}
+hr{
+	border-top: 1px solid black;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+	width:400px;
+	margin-left: 700px;
+}
+h3{
+	margin-left: 700px;
+	font-size: 25px;
+}
+label{
+	margin-left: 700px;
+	font-size: 25px;
+	font-weight: 700px;
+}
